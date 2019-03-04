@@ -14,6 +14,7 @@ Things Required before trying this out;
 
 Install Python3: 
        You can refer this https://docs.python-guide.org/starting/install3/osx/ for knowing how to install python3 and homebrew for ease of use.
+       if already installed , in the home directory(default), clone the repo and change the directory to repo and run the script by typing python3 
        
 Contributions are welcome! 
        You can suggest new features that can be supportively added or work on the present thing improving the support for future devices and extending its flexibility.
