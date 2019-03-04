@@ -8,7 +8,7 @@ Added Support:
        Works flawlessly with Mac's having Touch_id and running MacOS Mojave.
        
        
-Things required to be installed before working with the project;
+Getting this setup on your Mac;
 
 Things Required before trying this out;
 
