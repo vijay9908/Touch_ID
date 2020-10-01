@@ -18,6 +18,7 @@ Install Python3:
        
 Contributions are welcome! 
        You can suggest new features that can be supportively added or work on the present thing improving the support for future devices and extending its flexibility.
+Note: Script setup works only for MacOs Mojave and Catalena Beta Only.
        
 ✒️ License
 
