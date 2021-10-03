@@ -15,7 +15,9 @@ Things Required before trying this out;
 Install Python3: 
        You can refer this https://docs.python-guide.org/starting/install3/osx/ for knowing how to install python3 and homebrew for ease of use. 
       In home directory(default), clone the repo and change the directory to repo and run the script by typing python3 access.py
-       
+ 
+Note: This script is tested and supports only MacOS Mojave.
+      
 Contributions are welcome! 
        You can suggest new features that can be supportively added or work on the present thing improving the support for future devices and extending its flexibility.
 Note: Script setup works only for MacOs Mojave and Catalena Beta Only.
@@ -23,4 +25,6 @@ Note: Script setup works only for MacOs Mojave and Catalena Beta Only.
 ✒️ License
 
 GNU General Public License v3.0
+
+
 
